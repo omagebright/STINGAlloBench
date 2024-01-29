@@ -1,4 +1,4 @@
-# Exosite-STING-ML-Prediction - `FB_Omage_etal_2023`
+# STINGAlloBench- `FB_Omage_etal_2023`
 
 <img src="https://www.cbi.cnptia.embrapa.br/SMS/images/logo_topo_centro_dir.gif" style="width: 160px; float: right;"/>
 
@@ -6,7 +6,7 @@
 
 <p align="justify">
 
-This repository contains machine learning workflow and processing for the exosite forming residues prediction. Exosites are protein regions that are distant and distinct from the active site, and act as a secondary molecular binding site. They are located on the surfaces of proteins and play important roles in allosteric regulation, substrate recognition, and complex protein-protein interactions. Exosites can modulate protein function by interacting with either small molecules or other proteins. Our models use the STINGRDB2 physicochemical and structural properties of exosites and non-exosites, as inferred by their nanoenvironment, to identify and characterize them. This can help us understand the molecular mechanisms that underlie some aspects of protein function and regulation, and also facilitate the development of novel drugs, modulators, and inhibitors that target these exosites.
+STINGAlloBench: A benchmarking dataset for precise allosteric site prediction using experimentally validated data, tailored for computational biology and machine learning.
 
 ## Overview
 
