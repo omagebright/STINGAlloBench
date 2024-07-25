@@ -228,10 +228,6 @@ The following papers and websites are the sources of the data and the methods us
 
 -   Neshich, G. *et al.* Using Structural and Physical--Chemical Parameters to Identify, Classify, and Predict Functional Districts in Proteins---The Role of Electrostatic Potential. *Computational Electrostatics for Biological Applications* 227--254 (2015) <doi:10.1007/978-3-319-12211-3_12>.
 
--   Open Terminal on Linux/MacOS or Command Prompt on Windows
-
--   Enter the following into the console (one line at a time)
-
 ``` console
 git clone 
 jupyter notebook
